@@ -89,3 +89,7 @@ body {
   background-color: var(--meadow-100);
   color: var(--meadow-900);
 }
+
+a {
+  text-decoration: none;
+}
