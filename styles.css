@@ -46,6 +46,33 @@
   --azure-800: rgb(18, 36, 49);
   --azure-900: rgb(13, 27, 38);
   --azure-950: rgb(11, 22, 31);
+
+   --cream-50: rgb(245, 244, 239);
+  --cream-100: rgb(232, 230, 217);
+  --cream-200: rgb(217, 213, 191);
+  --cream-300: rgb(207, 202, 175);
+  --cream-400: rgb(186, 179, 140);
+  --cream-500: rgb(171, 162, 115);
+  --cream-600: rgb(153, 143, 92);
+  --cream-700: rgb(128, 119, 77);
+  --cream-800: rgb(102, 95, 61);
+  --cream-900: rgb(76, 71, 46);
+
+  --offgray-50: rgb(241, 242, 244);
+  --offgray-100: rgb(221, 223, 228);
+  --offgray-200: rgb(198, 202, 210);
+  --offgray-300: rgb(184, 189, 199);
+  --offgray-400: rgb(152, 160, 174);
+  --offgray-500: rgb(129, 139, 156);
+  --offgray-600: rgb(108, 118, 137);
+  --offgray-700: rgb(90, 99, 114);
+  --offgray-800: rgb(76, 84, 97);
+  --offgray-900: rgb(54, 59, 69);
+  --offgray-950: rgb(34, 37, 43);
+  --offgray-1000: rgb(11, 12, 14);
+  
+  --neutral: rgb(246, 244, 239);
+  --accent-blue: rgb(7, 81, 207);
 }
 
 *,
